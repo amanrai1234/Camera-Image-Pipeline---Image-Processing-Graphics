@@ -1,4 +1,4 @@
-# De_bayering
+# De_Bayering
 
 I have created two files
 1]camera_signal_processing- for running the program using.py file
